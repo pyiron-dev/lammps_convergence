@@ -1,6 +1,7 @@
 channels:
 - conda-forge
 dependencies:
+- python =3.13
 - lammps =2024.08.29=*openmpi*
 - iprpy-data =2023.07.25
 - pyiron_atomistics =0.8.4
